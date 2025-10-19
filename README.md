@@ -1,10 +1,8 @@
 # EnhanceIT PRO - AI Image Enhancement Suite
 
-![EnhanceIt Logo](https://enhanceit.pro/ico.png)
-
 ## 🚀 About
 
-EnhanceIt.pro is a comprehensive suite of AI-powered image enhancement tools designed to transform and improve images with just a few clicks. Our platform offers multiple specialized tools to address various image enhancement needs, all accessible through an intuitive, user-friendly interface.
+EnhanceIT PRO is a comprehensive suite of AI-powered image enhancement tools designed to transform and improve images with just a few clicks. Our platform offers multiple specialized tools to address various image enhancement needs, all accessible through an intuitive, user-friendly interface.
 
 🌐 Visit the live platform at [https://enhanceit.pro](https://enhanceit.pro).
 
