@@ -1,6 +1,6 @@
 # EnhanceIT PRO - AI Image Enhancement Suite
 
-![EnhanceIt Logo](https://enhanceit.pro/logo.png)
+![EnhanceIt Logo](https://enhanceit.pro/ico.png)
 
 ## 🚀 About
 
