@@ -1,73 +1,121 @@
-# EnhanceIt.pro - AI Image Enhancement Suite
+# EnhanceIT PRO - AI Image Enhancement Suite
 
-![EnhanceIt Logo](public/logo.png)
+![EnhanceIt Logo](https://enhanceit.pro/logo.png)
 
 ## 🚀 About
 
 EnhanceIt.pro is a comprehensive suite of AI-powered image enhancement tools designed to transform and improve images with just a few clicks. Our platform offers multiple specialized tools to address various image enhancement needs, all accessible through an intuitive, user-friendly interface.
 
+🌐 Visit the live platform at [https://enhanceit.pro](https://enhanceit.pro).
+
 ## ✨ Features
 
-### Multiple AI Enhancement Tools
+### Multi-Model Selection System
 
-- **AI Photo Enhancer & Upscaler**: Transform low-quality photos into crystal-clear 4K quality
-- **AI Anime Enhancer**: Enhance and upscale anime and cartoon images
-- **AI Background Remover**: Remove backgrounds from images with precision
-- **AI Image Colorizer**: Transform black & white photos into vibrant colored images
-- **AI Photo Restore**: Restore old, damaged photos to their former glory
-- **AI Object Remover**: Remove unwanted objects from photos seamlessly
+- **Standard Enhancement** *(free)*
+- **Text Clarity Enhancement** *(premium)*
+- **Image Sharpener** *(premium)*
+- **Face Restore** *(premium)*
+- **Image Upscaler** with 2x *(free)* and 4x/8x *(premium)* scaling
 
-### User Experience
+### Complete AI Tool Suite
 
-- Intuitive drag-and-drop interface
-- Before/after comparison sliders
-- Zoom and pan functionality for detailed viewing
-- Quick download options for enhanced images
-- Mobile-responsive design
+- **AI Enhance & Restore**: Photo Enhancer, Photo Restoration, Anime Enhancer, Image Colorizer
+- **AI Removal**: Object Remover *(new)*, Background Remover *(hot)*
+- **AI Face Tools**: Face Swap *(new)*
 
-### Technical Features
+### One-Click Experience
 
-- Fast processing with advanced AI models
-- Support for multiple image formats (PNG, JPEG, JPG, WEBP)
-- User authentication system with free tier and premium options
-- Daily usage limits with account-based tracking
-- Performance optimization for quick results
+- Instant enhancement with drag-and-drop uploads
+- Before/after comparison sliders with zoom & pan controls
+- Quick download options for every result
+- Cross-device compatibility across Mac, iOS, Windows, Android, and mobile browsers
+- Mobile-responsive design with mirrored navigation on small screens
+
+### Technical Highlights
+
+- Fast processing powered by advanced AI pipelines
+- Support for JPEG, PNG, WEBP, BMP, TIFF up to 5 MB
+- Supabase-backed authentication with free and premium tiers
+- Daily usage limits and credits tracked per account
+- Performance-tuned delivery for low-latency results
 
 ## 🔒 Privacy & Security
 
-- Secure image processing
-- No permanent storage of user images (unless explicitly requested)
-- GDPR compliant data handling
-- Privacy-focused design
+- Secure image processing with automatic deletion after completion
+- No permanent storage of user images unless explicitly requested
+- GDPR-compliant data handling
+- Privacy-first workflows for uploads, processing, and billing
 
 ## 💼 Business Model
 
-- Freemium model with limited free enhancements
-- Premium subscription options for higher usage limits
-- Enterprise solutions available for high-volume needs
+- Freemium access with limited daily enhancements
+- Premium subscriptions for higher limits, exclusive models, and priority support
+- Credit packages for flexible, pay-as-you-go usage
+- Enterprise solutions for high-volume or white-label deployments
 
 ## 🛠️ Technology Stack
 
-- Next.js for frontend and API routes
-- React for UI components
-- TailwindCSS for styling
-- Firebase/Supabase for authentication and database
-- Advanced AI models for image processing
+- Next.js application with bilingual routing
+- React component system styled by TailwindCSS
+- Supabase for authentication, storage, and Edge Functions
+- PHP proxy layer for PayPro Global integrations
+- Advanced AI inference services powering enhancement models
 
 ## 📱 Accessibility
 
-- Responsive design for all devices
-- Keyboard navigation support
-- Screen reader compatible
-- High contrast options
+- Responsive layouts across desktop, tablet, and mobile
+- Keyboard navigation support throughout the platform
+- Screen reader friendly semantics on core workflows
+- High-contrast themes for improved legibility
+
+## 🌍 Bilingual Experience
+
+- Full English and Spanish language coverage across the dashboard, billing, history, credits, and settings tabs.
+- Localized confirmation modals, success/error banners, and notifications to keep billing feedback clear in both languages.
+- Pricing and marketing content tailored for each locale, including Spanish pricing pages and subscription messaging.
+- More languages coming soon!
+
+## 💳 Pricing
+
+### Subscription Plans
+
+- **Trial** — $0, 1 image/day, instant try (no signup), includes Standard Enhancement + 2x Upscaler with ads.
+- **Free** — $0, 5 images/day, account required, Standard Enhancement + 2x Upscaler with ads.
+- **Basic** — $12.99, 20 images/day (150/month), ad-free, unlocks 4x/8x Upscaler, Image Sharpener, Face Restore, Text Clarity.
+- **Standard** *(Most Popular)* — $24.99, 35 images/day (300/month), ad-free, priority processing, full enhancer suite.
+- **Premium** — $39.99, 55 images/day (600/month), ad-free, priority processing, dedicated support, full enhancer suite.
+
+### Credit Packages
+
+- **Starter** — $5.99 for 10 credits ($0.60/credit), no expiry, ad-free, full enhancer suite.
+- **Value** — $23.99 for 50 credits ($0.48/credit), no expiry, ad-free, full enhancer suite.
+- **Pro** *(Most Popular)* — $59.99 for 150 credits ($0.40/credit), no expiry, ad-free, priority processing, full enhancer suite.
+- **Business** — $119.99 for 350 credits ($0.34/credit), no expiry, ad-free, priority processing, full enhancer suite.
+- **Enterprise** — $239.99 for 800 credits ($0.30/credit), no expiry, ad-free, priority processing, dedicated support, full enhancer suite.
+
+## 💳 Billing Improvements
+
+- Full user control to pause (cancel) or reactivate subscriptions with live status indicators and expiry notices.
+- Guided PayPro portal access via confirmation modal before sending one-time login emails.
+- Unified backend routing for cancel, renew, and payment-link actions for consistent handling across plans.
+
+## 🎨 UI Improvements
+
+- Account hub navigation keeps Dashboard, History, Credits, Billing, and Settings within a single tabbed layout.
+- Creative tool galleries introduce every AI feature with localized copy, quick actions, and friendly empty states.
+- Mobile-friendly bottom navigation mirrors desktop tabs for effortless access on phones and tablets.
+- Visual polish with branded gradients, particle animations, and cohesive dark-theme aesthetics.
+- Pricing comparison flow showcases plan details, expandable feature lists, and direct PayPro checkout links.
+- Embedded auth & settings provide avatar selection, profile updates, password changes, and session controls without leaving the app shell.
 
 ## 🔄 Recent Updates
 
-- Added ad initialization for all tool result pages
-- Improved image comparison functionality
-- Enhanced mobile responsiveness
-- Optimized processing speeds
-- Added new background options for removed backgrounds
+- Introduced multi-model selection with premium-only enhancements.
+- Launched new subscription tiers and credit packages tied to PayPro checkout.
+- Implemented guided billing modals with richer success/error feedback.
+- Expanded the AI tool suite with Object Remover and Face Swap utilities.
+- Refined account navigation and mobile parity for the entire experience.
 
 ## 🔮 Future Roadmap
 
@@ -79,12 +127,12 @@ EnhanceIt.pro is a comprehensive suite of AI-powered image enhancement tools des
 
 ## 📞 Support
 
-For support inquiries, please visit [enhanceit.pro/contact](https://enhanceit.pro/contact) or email support@enhanceit.pro.
+For support inquiries, please visit [enhanceit.pro/contact](https://enhanceit.pro/contact) or email [support@enhanceit.pro](mailto:support@enhanceit.pro).
 
 ## 🤝 Contributing
 
-We welcome contributions to improve EnhanceIt.pro! Please feel free to submit issues or pull requests.
+We welcome contributions to improve EnhanceIT PRO! Please feel free to submit issues or pull requests.
 
 ## 📄 License
 
-© 2023-2024 EnhanceIt.pro - All Rights Reserved 
+© 2025 EnhanceIT PRO - All Rights Reserved 
